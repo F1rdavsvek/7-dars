@@ -18,7 +18,7 @@
 # iterator = SimpleIterator()
 # for number in iterator:
 #     print(number)
-from email.generator import Generator
+# from email.generator import Generator
 
 # ------------------------------------
 # 2
